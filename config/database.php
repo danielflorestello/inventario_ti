@@ -1,9 +1,9 @@
 <?php
 // Configuración de la base de datos
-define('DB_HOST', 'localhost');
-define('DB_USER', 'root');
-define('DB_PASS', '');
-define('DB_NAME', 'inventario_ti');
+define('DB_HOST', 'bhngdszq0kgml0swdtdv-mysql.services.clever-cloud.com');
+define('DB_USER', 'uuxl3ridzazjvw8o');
+define('DB_PASS', 'tNFAW1Nt42mSYH74GpCG');
+define('DB_NAME', 'bhngdszq0kgml0swdtdv');
 
 // Crear la conexión con MySQLi
 $conexion = new mysqli(DB_HOST, DB_USER, DB_PASS, DB_NAME);
